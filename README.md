@@ -1,1 +1,1 @@
-Cat clicker with KnockoutJS Javascript organizational framework.
+Cat clicker with KnockoutJS Javascript organizational library.
